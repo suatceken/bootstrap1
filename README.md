@@ -4,4 +4,4 @@ bilgi paylaştıkça çoğalır
 <h2>Kullanılan Teknolojiler </h2>
 HTML5,CSS VE BOOTSTRAP TEKNOLOJİLERİ
 <h2>ekran gifi </h2>
-![](/images/ekran.gif)
+<img src="images/ekran.gif"/>
